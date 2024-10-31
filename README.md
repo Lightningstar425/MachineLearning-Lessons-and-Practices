@@ -1,13 +1,12 @@
-# For Computer Vision Club at Interlake
+# Interlake Computer Vision Club Resources
 
-# Contains
+# Contents
 
-- Slides on decision trees, Linear/Logistic regression, CNNs, and how to optimize models
-- Practices for Logistic regression and CNNs
-- Projects to build a linear regression model and CNN model
-  
-- Machine Learning models built by current President that members should look at if they need ideas for new projects
+- Comprehensive slides covering decision trees, linear/logistic regression, convolutional neural networks (CNNs), and model optimization techniques.
+- Practice exercises focused on logistic regression and CNNs to reinforce learning.
+- Project guidelines for building linear regression and CNN models to apply theoretical knowledge.
+- Machine learning models developed by the current Club President, available as inspiration for members seeking ideas for new projects.
 
-# Up coming
+#Upcoming
 
--Practices and slides for RNN
+- Practice materials and slides on Recurrent Neural Networks (RNNs).
